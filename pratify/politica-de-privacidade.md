@@ -1,6 +1,6 @@
 # Política de Privacidade do Pratify
 
-_Última atualização: 18 de outubro de 2026_
+_Última atualização: 22 de outubro de 2026_
 
 O Pratify é um aplicativo que sugere refeições a partir dos seus gostos, restrições e rotina. Esta política explica quais informações o app usa, onde elas ficam e como você controla esses dados.
 

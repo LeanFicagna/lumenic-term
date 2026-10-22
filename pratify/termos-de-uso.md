@@ -1,6 +1,6 @@
 # Termos de Uso do Pratify
 
-_Última atualização: 18 de outubro de 2026_
+_Última atualização: 22 de outubro de 2026_
 
 Estes termos valem para o uso do aplicativo Pratify. Ao instalar e usar o app, você concorda com eles. Se não concordar, não use o app.
 
